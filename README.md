@@ -9,6 +9,8 @@ The model was trained on the "An EEG Recordings Dataset for Mental Stress Detect
 4. Stroop Colour Word Test (SCWT)
 5. Trier Mental Challenge Test (TMCT)
 
+Dataset Link: https://data.mendeley.com/datasets/wnshbvdxs2/1
+
 ## Results
 The custom EEGNet model was evaluated using 5-Fold Stratified Cross-Validation and achieved a top-fold accuracy of **95%**, showcasing high precision and recall across all cognitive tasks.
 
